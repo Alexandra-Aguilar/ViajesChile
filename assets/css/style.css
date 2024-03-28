@@ -5,3 +5,11 @@
 .navbar{
     background-color: var(--main-bg-color);
 }
+
+#parrafo1, #parrafo2, #parrafo3{
+    text-align: justify;
+}
+
+html {
+    scroll-behavior: smooth;
+}
