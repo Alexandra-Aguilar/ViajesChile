@@ -9,6 +9,9 @@
 #parrafo1, #parrafo2, #parrafo3{
     text-align: justify;
 }
+.card img{
+    height: 150px;
+}
 
 html {
     scroll-behavior: smooth;
